@@ -34,7 +34,7 @@ My work reflects senior-level scope and responsibility: multi-role systems, comp
 
 ## Featured Projects
 
-### [Ardtire Civic Governance Platform](https://github.com/thomas-j-carter/ardtire-platform)
+### [Ardtire Civic Governance Platform](https://github.com/thomas-j-carter/civic-governance-platform)
 > Full-stack civic governance system with multi-role authentication, membership workflows, constitutional proposal drafting, structured review pipelines, voting logic, and administrative tooling.
 
 Independently architected and implemented end to end. The platform supports multiple user roles — applicants, members, moderators, editors, and administrators — each with distinct permissions, workflows, and access controls. Covers identity, membership approval, collaborative drafting, proposal lifecycle management, voting windows, audit records, and a full admin layer.
